@@ -2,12 +2,15 @@
 
 Name : SHIN JUNYOUNG
 
-``` Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown ''files.
-```
-
 ## EDUCATION
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*스프링 데이터 JPA
+*RPA Solution Architecture Fundamentals
+*RPA Developer Advanced
+*Spring 4.0 향상 과정
+*모델링기반 Front-End&Back-End 개발자 양성과정
+*모바일 서비스 기획
+*한국인재멘토링 
+*SGS사회적기업가아카데미 
 
 ## PROJECT
 
